@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Sunshine</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_map">Map Location</string>
+    <string name="action_share">Share</string>
+    <string name="action_refresh" translatable="false">Refresh</string>
+    <string name="title_activity_detail">Details</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="pref_location_label">Location</string>
+    <string name="pref_location_key" translatable="false">location</string>
+    <string name="pref_location_default" translatable="false">HoChiMinh</string>
+    <string name="pref_units_label">Temperature Units</string>
+    <string name="pref_units_label_metric">C</string>
+    <string name="pref_units_label_imperial">F</string>
+    <string name="pref_units_key" translatable="false">Units</string>
+    <string name="pref_units_metric" translatable="false">C</string>
+    <string name="pref_units_imperial" translatable="false">F</string>
+    <string name="title_activity_chitiet">ChiTiet</string>
+</resources>

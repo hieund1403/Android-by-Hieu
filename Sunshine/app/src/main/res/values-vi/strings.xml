@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sunshine</string>
+    <string name="action_settings">Cài đặt</string>
+    <string name="action_map">Trên Google Maps</string>
+    <string name="action_share">Chia sẻ</string>
+    <string name="action_refresh" translatable="false">Làm mới</string>
+    <string name="title_activity_detail">Chi tiết</string>
+    <string name="title_activity_settings">Cài đặt</string>
+    <string name="pref_location_label">Địa điểm</string>
+    <string name="pref_location_key" translatable="false">Địa điểm</string>
+    <string name="pref_location_default" translatable="false">HoChiMinh</string>
+    <string name="pref_units_label">Đơn vị</string>
+    <string name="pref_units_label_metric">C</string>
+    <string name="pref_units_label_imperial">F</string>
+    <string name="pref_units_key" translatable="false">Đơn vị</string>
+    <string name="pref_units_metric" translatable="false">C</string>
+    <string name="pref_units_imperial" translatable="false">F</string>
+    <string name="title_activity_chitiet">Chi tiết</string>
+</resources>
